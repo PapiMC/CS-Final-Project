@@ -2,7 +2,7 @@ import pygame
 import math
 import random
 
-"""Created by Zach and Logen"""
+"""Created by Logen and Zach"""
 
 """"COLORS"""
 WHITE = (255, 255, 255)
