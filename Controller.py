@@ -4,7 +4,7 @@ import View
 from Model import Paddle, Wall, Brick, Ball
 import ScoreCalc
 
-"""Created by Zach and Logen"""
+"""Created by Logen and Zach"""
 
 """"COLORS"""
 WHITE = (255, 255, 255)
